@@ -1,4 +1,6 @@
-We dont want this line
+For this file I will do a revert commit
+
+
 -->Run these commands to configure E-mail and you name in Git-
 
 	git config --global user.email "you@example.com"
