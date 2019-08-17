@@ -40,13 +40,6 @@ while t.cases is not 0:
 
 
 
-
-
-
-
-
-
-
     # solution which got submitted
 
 class Rainwater:
